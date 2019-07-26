@@ -1,95 +1,81 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Andy Rose
+full_name: Andy Rose
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/abloomston/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
-
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+Above all, I value loyalty. I will always have you back and be there for you and appreciate when people recipricate. 
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+* *Friendly*: I promise, I want to be friends with you. Though I wont always start a conversation. 
+* *Empathetic*: I feel you dawg. 
+* *Energetic*: You will never catch me on a nap-cation. I am ALWAYS go-go-go. 
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
-
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+Never resist to give me feedback! When it is negative or constructive, please bring it to me directly. I will accept your input with open arms. 
 
 ## Work Patterns
 
-What hours do you usually work?
+I'm a bit of a night owl, so I typically work between *10am and 7pm*. This works out with my time zone being an hour ahead of the HQ office for Pantheon. I like to do a *short workout* in the afternoon to re-energize. 
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+I'm always down for pair-programming or just sitting down with someone and working on something. I will likely never turn down a request unless I have a very tight timeline to get something done. 
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+*SLACK* PLEASE! I don't have a great conversational memory. I frequently go back and follow up on Slack messages. I check email once or twice a day, so it is my snail mail at work. 
 
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+Contact me at *any time*. If I am available, I will answer right away. 
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+Oh geez. This doesn't happen hardly at all, at or outside of work. I would say if I am in a bad mood, my speech will be very short and direct. I may even bring it up with you directly.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+Talk to me. Let me get some stuff off my chest. Discuss it with me. *Help me* get through it.
+Don't be afraid to disagree with me when I am upset, I am still listening and receptive. 
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+* Dad Jokes: I am...not a commedian, but I like to joke about many things. Just deal with it :) 
+* Dry Conversation: I love talking to people, but I am literally THE WORST at coming up with topics for discussion. Seriously, gun to my head if someone said "say something interesting or die", I wouldn't be able to come up with anything. Please don't take that as me not wanting to talk to you.
+* Fidgey McFidgetson: Sometimes, I have a very hard time sitting still. If I move around a lot during a meeting and change positions, it is not because I am not interested. I just can't help it. 
 
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+* Like 95% of all my pet peeves are around driving. Good thing I don't carpool with you.
+* People that say they are going to do something and don't even try to follow through.
+* When people hold a grudge, but act like nothing is wrong until one day they bring all the things up at once.
 
 ## Career Goals & Future Interests
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+I could see myself being in a leadership position at some point. For now though, I just like to kick ass and get shit done!
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+* Asking questions too soon. Sometimes I will be working through something and feel it is taking too long and ask for help before truly exhausting my other resources.
+* Sometimes I take things WAY too literally.
+* I could use some improvement on context switching. I tend to get carried away by one thing at a time.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+* Music! I DJ/Produce and love to swap musical knowledge with people. 
+* Snowboarding/Skiing!
+* The things you find at Ross Dress For Less
+* RPG Games
